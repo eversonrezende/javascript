@@ -1,3 +1,3 @@
 # Introdução ao JavaScript
 
-Repositório sobre as primeiras aulas referentes a JavaScript
+Repositório sobre as primeiras aulas referente a JavaScript
